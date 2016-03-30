@@ -1,1 +1,1 @@
-https://cloud.githubusercontent.com/assets/16802930/13732318/cee69140-e94d-11e5-9041-a55c711468d5.png
+https://drive.google.com/a/unomaha.edu/file/d/0BwdSe_mhERV5S1BYcUtNNmpXX3c/view?ts=56f88f8f
