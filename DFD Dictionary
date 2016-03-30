@@ -1,14 +1,14 @@
-Process Name      	          Description
-Corporate Developer	          In charge of planning and executing the project. This licensing, managing code streams, checking for vulnerabilities, and making sure the information is hashed properly. 
-License/Load Rules	          Check to make sure the external source is under a license agreement we can use and also license  our final code
-Online Repository	            Store all data related to the project
-Manage Code Streams           (Don' Need??)	
-SHA-3 (Need to change in DFD)	Cryptographic secure hash funtion to help compare large amounts of data, and index data. 
-NIST CPE Information	
-Manage CPE Information	
+Process Name	Description
+Corporate Developer	In charge of planning and executing the project. This licensing, managing code streams, checking for vulnerabilities, and making sure the information is hashed properly. 
+License/Load Rules	Check to make sure the external source is under a license agreement we can use and also license  our final code
+Online Repository	Store all data related to the project
+Manage Code Streams  (Don' Need)	
+SHA-3 (Need to change in DFD)	Cryptographic secure hash funtion to help compare large amounts of data and index data. 
+NIST CPE Information	Get (information )about vulnerabilities on the external source we are using. 
+Manage CPE Information (Missing CVE?)	
 NIST Database	
 Risk DB	
 Manage Project Information	
-Corporate Developer	
+Corporate Manager	
 Manage Policy Information	
 Policy Database	
