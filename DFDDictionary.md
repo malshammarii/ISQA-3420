@@ -1,25 +1,26 @@
-Process Name	                      Description
+Process Name -	                      Description
 
-Corporate Developer	                In charge of planning and executing the project. This licensing, managing code streams, checking                                      for vulnerabilities, and making sure the information is hashed properly. 
+Corporate Developer -	                In charge of planning and executing the project. This licensing, managing code streams, checking                                      for vulnerabilities, and making sure the information is hashed properly. 
 
-License/Load Rules	                Check to make sure the external source is under a license agreement we can use and also license  our                                 final code
-Online Repository	                  Store all data related to the project.
+License/Load Rules	 -               Check to make sure the external source is under a license agreement we can use and also license  our                                 final code
 
-Manage Code Streams                 Hub to manage requests from Corporate Developer, to and from Hashing, vulnerabilities, and RISK                                       DB.  	  
-SHA-3                       	      Cryptographic secure hash funtion to help compare large amounts of data and index data. 
+Online Repository -	                  Store all data related to the project.
 
-NIST CPE Information	              Send CPE information and recieve CPE/CVE package query.
+Manage Code Streams -                 Hub to manage requests from Corporate Developer, to and from Hashing, vulnerabilities, and RISK                                       DB.  	  
+SHA-3 -                       	      Cryptographic secure hash funtion to help compare large amounts of data and index data. 
 
-Manage CPE Information 	            Send CPE/CVE request and recieve CPE/CVE response.
+NIST CPE Information -	              Send CPE information and recieve CPE/CVE package query.
 
-NIST Database	                      Lookup CPE/CVE information.
+Manage CPE Information - 	            Send CPE/CVE request and recieve CPE/CVE response.
 
-Risk DB	                            Recieve CPE package information to add to internal Risk Database.
+NIST Database -	                      Lookup CPE/CVE information.
 
-Manage Project Information	        Recieves DB package inform and sends request for DB package information.
+Risk DB -	                            Recieve CPE package information to add to internal Risk Database.
 
-Corporate Manager	                  Requests MPI and gets MPI response
+Manage Project Information -	        Recieves DB package inform and sends request for DB package information.
 
-Manage Policy Information	          Get policy request and send policy response to Corporate Manager. 
+Corporate Manager -	                  Requests MPI and gets MPI response
 
-Policy Database	                    Internal Document storing policy information. 
+Manage Policy Information -	          Get policy request and send policy response to Corporate Manager. 
+
+Policy Database -	                    Internal Document storing policy information. 
