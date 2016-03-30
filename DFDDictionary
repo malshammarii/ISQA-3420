@@ -2,7 +2,7 @@ Process Name	                      Description
 Corporate Developer	                In charge of planning and executing the project. This licensing, managing code streams, checking for vulnerabilities, and making sure the information is hashed properly. 
 License/Load Rules	                Check to make sure the external source is under a license agreement we can use and also license  our final code
 Online Repository	                  Store all data related to the project.
-Manage Code Streams                 	  
+Manage Code Streams                 Hub to manage requests from Corporate Developer, to and from Hashing, vulnerabilities, and RISK DB.  	  
 SHA-3                       	      Cryptographic secure hash funtion to help compare large amounts of data and index data. 
 NIST CPE Information	              Send CPE information and recieve CPE/CVE package query.
 Manage CPE Information 	            Send CPE/CVE request and recieve CPE/CVE response.
