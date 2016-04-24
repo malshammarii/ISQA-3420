@@ -1,8 +1,8 @@
-Policy:
+POLICY:
 
 Microsoft Office Word Viewer 2003	- RED
 
-Vulnerabilities:
+VULNERABILITIES:
 
 11 - RED
 1 - Yellow
