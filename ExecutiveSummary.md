@@ -7,3 +7,6 @@ As a user of open-source we need to abide by any license attached and fix any vu
 
 SOLUTION:
 
+We need to abide by the licenses and be made aware of any vulnerabilities in the open-source code we plan to implement into our business. We do this first by checking the licensing information and uploading them to our online repository. Second, we double check the NIST databases for any known vulnerabilites. After the vulnerabilites have been found we hash the information and send them to our in house databases. Our corporate manager then finalizes policy information about the project and determines whether its an acceptable amount of risk or if we need to fix any vulnerabilites, updates the software manifest, and sends the code back to the developer either fix vulnerabilities or upload and finalize the code.
+
+
